@@ -1,0 +1,9 @@
+.*~
+
+bin/
+Debug/
+
+.DS_Store
+.metadata
+.project
+.cproject
